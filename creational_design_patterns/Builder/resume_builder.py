@@ -75,3 +75,10 @@ if __name__=='__main__':
     resume_director = ResumeDirector()
     resume_director.simpleResumeBuilder().display()
     resume_director.detailedResumeBuilder().display()
+    
+    
+    
+'''
+Resume Builder can built using prototype pattern too..because cloning all details and changing enough ones would be easier
+
+'''
