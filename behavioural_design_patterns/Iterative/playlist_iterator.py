@@ -67,3 +67,7 @@ if __name__=='__main__':
 
     
 
+"""
+Best Real world example would be file system traversals.Fetching depth and nested files without knowing internal implementation.
+
+"""
